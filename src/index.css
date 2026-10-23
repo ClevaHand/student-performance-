@@ -1,0 +1,5 @@
+@import "tailwindcss";
+body{font-family:Inter,ui-sans-serif,system-ui,sans-serif;background:#a8a74f;color:#663a3a}
+:focus-visible{outline:2px solid #1ee270;outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{aside,.no-print{display:none!important}main{padding:0!important}}
